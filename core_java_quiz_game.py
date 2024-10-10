@@ -1,7 +1,7 @@
 import os
 
 # ==============================
-#   Author: Muskan Shaikh
+#   Author: Muskan Shaikh :)
 #   Welcome to the Quiz Game    
 # ==============================
 
